@@ -1,5 +1,5 @@
 # Laravel-Introduction  
 
-1. Projet d'introduction au framework Laravel.  
-2. Prise en main et manipulation de commandes de base.
-3. Création d'une base de données et interaction avec cette dernière.  
+1. Introduction to the Laravel framework with a small project.
+2. Handling of basic commands.
+3. Creation and interaction with a database.
